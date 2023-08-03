@@ -6,7 +6,7 @@
 
 - [Dati grezzi](https://github.com/ivandorte/pdf-to-vect-utilities-sample/raw/main/output/mappa25_0.gpkg)
 - [Stili QGIS](https://github.com/ivandorte/pdf-to-vect-utilities-sample/tree/main/qgis_styles)
-- [Mappa interattiva](https://ivandorte.github.io/webmaps/mappa12-gas-rieti/index.html)
+- [Mappa interattiva](https://ivandorte.github.io/webmaps/mappa25-gas-rieti/index.html)
 
 ### Authors
 
